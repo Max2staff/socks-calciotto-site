@@ -1,0 +1,12 @@
+{
+  "name": "SOCKS Calcio a 8",
+  "short_name": "SOCKS",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0a0c0e",
+  "theme_color": "#1a1e25",
+  "icons": [
+    { "src": "icons/logo.jpg", "sizes": "any", "type": "image/jpeg" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
